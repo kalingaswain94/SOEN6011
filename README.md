@@ -17,6 +17,11 @@ Group \* Add GroupName here\*
 
 
 <h2>1. High-level project definition</h2>
+The objective of this project is to develop a middle fidelity protoype of a comprehensive Career Services Platform that caters to the needs of both job-seeking students and employers. The platform will enable students to create and update their portfolios while providing employers with the ability to post job openings. The aim of the project is to facilitate efficient job hunting and recruitment processes, benefiting both candidates and employers.
+
+
+
+
 
 <h2>2. Introduction of team members and roles</h2>
 
