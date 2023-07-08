@@ -4,7 +4,7 @@ SOFTWARE ENGINEERING PROCESSES: SECTION CC
 
 Group \* Add GroupName here\*
 
-\*Add Project Name here\*
+\*Career Services Platform*
 
 | Team Members | Roll Numbers |
 | --- | --- |
@@ -31,3 +31,7 @@ Group \* Add GroupName here\*
 <h2>3. Project Management Philosophy</h2>
 
 1. **Project scope**
+<h2>4. User Roles</h2>
+**4.1.1 Employer**
+**4.1.2 Student/Candidate**
+**4.1.3 Admin**
