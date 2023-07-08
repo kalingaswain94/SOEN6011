@@ -9,6 +9,11 @@ Group \* Add GroupName here\*
 | Team Members |
 | --- |
 | Vaibhav Sharma |
+| Kalinga Keshari Swain |
+| Munj Bhavesh Nayak |
+| Maitry Gajiwala |
+| Naoreen Chowdhury - 40217016 |
+| Khushali Parmar - 40224984 |
 
 
 <h2>1. High-level project definition</h2>
