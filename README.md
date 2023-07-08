@@ -33,6 +33,6 @@ Group \* Add GroupName here\*
 1. **Project scope**
 <h2>4. User Roles</h2>
 
-**4.1.1 Employer**
-**4.1.2 Student/Candidate**
-**4.1.3 Admin**
+**4.1.1 Employer** \
+**4.1.2 Student/Candidate** \
+**4.1.3 Admin** \
