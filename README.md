@@ -37,7 +37,8 @@ The objective of this project is to develop a middle fidelity protoype of a comp
 
 1. **Project scope**
 <h2>4. User Roles</h2>
-
-**4.1.1 Employer** \
-**4.1.2 Student/Candidate** \
-**4.1.3 Admin** \
+The following are the user roles for this protoype, we use 
+**4.1.1 Employer:** \  Create an account/register, login, browse candidates, add job offers, select
+candidates that have already applied to an offer for an interview, track the post
+**4.1.2 Student/Candidate:** \
+**4.1.3 Admin:**
