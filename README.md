@@ -25,13 +25,15 @@ The objective of this project is to develop a middle fidelity protoype of a comp
 
 <h2>2. Introduction of team members and roles</h2>
 
-**Project Manager:**
+**Scrum Master: Vaibhav Sharma**
 
-**Quality Assurance:**
+**Product Owner: Kalinga Swain**
 
-**Development Team:**
+**Development Team:Munj Bhavesh Nayak, Maitry Gajiwala, Naoreen Chowdhury, Khushali Parmar, Kalinga Swain**
 
-**UX/UI Designer:**
+**Quality Assurance: Kalinga Swain, Maitry Gajiwala, Munj Bhavesh Nayak**
+
+**UX/UI Designer:Khushali Parmar, Naoreen Chowdhury**
 
 <h2>3. Project Management Philosophy</h2>
 
