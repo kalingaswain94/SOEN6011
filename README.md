@@ -19,6 +19,9 @@ Member details:
 # CareerCampus
 ## 1. Project Description
 
+### Problem Statement
+The problem is the lack of an efficient Career Services Platform that caters to job-seeking students and employers. Existing solutions don't offer a centralized platform for students to create portfolios and for employers to post job openings, and even if they do, the portals are not as robust in terms of narrowing down the postings as per the requirements of the users. This hinders efficient job hunting and recruitment processes, impacting both candidates and employers. The objective is to develop a middle-fidelity prototype of a comprehensive platform to address these challenges and facilitate effective job matching, directed specifically towards students. 
+
 ### Project Definition
 The objective of this project is to develop a middle fidelity protoype of a comprehensive Career Services Platform that caters to the needs of both job-seeking students and employers. The platform will enable students to create and update their portfolios while providing employers with the ability to post job openings. There will also be an admin who will manage all user profiles, postings and tracking. The aim of the project is to facilitate efficient job hunting and recruitment processes, benefiting both candidates and employers. 
 
