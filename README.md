@@ -48,7 +48,7 @@ Job Postings and Management will allow employers to post job vacancies on the pl
 This is a scheduling feature that will be unique to a job posting. Students will be able to select, view and request for rescheduling interview slots whereas employers will be able to open new interview slots. Employers can also view, reschedule and cancel interview slots. As mentioned above, we will add integration of this feature with other scheduling and reminder apps such as Google Calender, etc. 
 <br>
 
-## 3. Project Approach
+## 3. Project Technology and Approach
 Our objective is to create an online platform that connects job seekers and companies, providing personalized job matching and expediting the job
 search process. We will follow an Agile development approach, dividing the project into iterations/sprints and incorporating regular reviews and
 feedback. 
@@ -61,11 +61,17 @@ feedback.
 - Documentation, such as requirements documents, design documents, and user guides, will be created and maintained using Github and Jira
 
 Tech Stack: After thorough research and discussions with the team, we have decided on the following Technologies to use for the implementation of our project.
-- **Runtime Environment:** Node.js
-- **Database:** MongoDB
-- **Programming IDE:** VsCode
-- **Version Control:** Git
+Runtime Environment: Node.js
+Node.js is a JavaScript runtime environment used for server-side development. It's known for its scalability and responsiveness.
 
+Database: MongoDB
+MongoDB is a flexible NoSQL database that stores data in JSON-like documents. It's suitable for applications with evolving data needs and offers powerful querying capabilities.
+
+Programming IDE: VSCode
+VSCode is a popular source code editor with a user-friendly interface, extensive language support, and useful features like debugging and version control integration.
+
+Version Control: Git
+Git is a distributed version control system that tracks code changes, making collaboration and code management easier. It integrates well with platforms like GitHub or GitLab.
 <br>
 
 ## 4. User Roles
