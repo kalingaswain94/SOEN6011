@@ -49,6 +49,23 @@ This is a scheduling feature that will be unique to a job posting. Students will
 <br>
 
 ## 3. Project Technology and Approach
+
+
+## Technology Stack: 
+After thorough research and discussions with the team, we have decided on the following Technologies to use for the implementation of our project.
+#### Runtime Environment: Node.js
+Node.js is a JavaScript runtime environment used for server-side development. It's known for its scalability and responsiveness.
+
+#### Database: MongoDB
+MongoDB is a flexible NoSQL database that stores data in JSON-like documents. It's suitable for applications with evolving data needs and offers powerful querying capabilities.
+
+#### Programming IDE: VSCode
+VSCode is a popular source code editor with a user-friendly interface, extensive language support, and useful features like debugging and version control integration.
+
+#### Version Control: Git
+Git is a distributed version control system that tracks code changes, making collaboration and code management easier. It integrates well with platforms like GitHub or GitLab.
+
+### Approach
 Our objective is to create an online platform that connects job seekers and companies, providing personalized job matching and expediting the job
 search process. We will follow an Agile development approach, dividing the project into iterations/sprints and incorporating regular reviews and
 feedback. 
@@ -59,19 +76,6 @@ feedback.
 - Risks will be identified, assessed, and mitigated throughout the project, with regular risk assessments and contingency plans in place.
 - A well-defined project timeline will outline major milestones and deliverables for each iteration. With a duration of 1.5 to 2.5 weeks, our four sprints will include regular reviews and retrospectives.
 - Documentation, such as requirements documents, design documents, and user guides, will be created and maintained using Github and Jira
-
-Tech Stack: After thorough research and discussions with the team, we have decided on the following Technologies to use for the implementation of our project.
-Runtime Environment: Node.js
-Node.js is a JavaScript runtime environment used for server-side development. It's known for its scalability and responsiveness.
-
-Database: MongoDB
-MongoDB is a flexible NoSQL database that stores data in JSON-like documents. It's suitable for applications with evolving data needs and offers powerful querying capabilities.
-
-Programming IDE: VSCode
-VSCode is a popular source code editor with a user-friendly interface, extensive language support, and useful features like debugging and version control integration.
-
-Version Control: Git
-Git is a distributed version control system that tracks code changes, making collaboration and code management easier. It integrates well with platforms like GitHub or GitLab.
 <br>
 
 ## 4. User Roles
