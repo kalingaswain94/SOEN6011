@@ -49,9 +49,22 @@ This is a scheduling feature that will be unique to a job posting. Students will
 <br>
 
 ## 3. Project Approach
-(Technologies used) TBD
+Our objective is to create an online platform that connects job seekers and companies, providing personalized job matching and expediting the job
+search process. We will follow an Agile development approach, dividing the project into iterations/sprints and incorporating regular reviews and
+feedback. 
+- During Sprint-1, our focus will be on project planning. This phase involves defining objectives, scope, and deliverables. We will identify the primary users (students, employers) and their key functionalities. Additionally, we will create a product backlog, prioritizing features and user stories for each iteration.
+- GitHub will serve as our platform for version control, issue tracking, and project management. Effective communication and collaboration will be facilitated through Google Meet, allowing real-time interaction and file sharing.
+- The development process will involve gathering and analyzing requirements, designing user interfaces, implementing functionality, and rigorous testing. Each iteration will focus on specific features, ensuring incremental progress.
+- To maintain quality, we will conduct comprehensive testing, including unit testing, integration testing, and user acceptance testing. Code reviews and quality checks will be performed to adhere to high standards.
+- Risks will be identified, assessed, and mitigated throughout the project, with regular risk assessments and contingency plans in place.
+- A well-defined project timeline will outline major milestones and deliverables for each iteration. With a duration of 1.5 to 2.5 weeks, our four sprints will include regular reviews and retrospectives.
+- Documentation, such as requirements documents, design documents, and user guides, will be created and maintained using Github and Jira
 
-### 3.1 Installation Guide
+Tech Stack: After thorough research and discussions with the team, we have decided on the following Technologies to use for the implementation of our project.
+- **Runtime Environment:** Node.js
+- **Database:** MongoDB
+- **Programming IDE:** VsCode
+- **Version Control:** Git
 
 <br>
 
