@@ -86,6 +86,7 @@ feedback.
 The following are the core user roles for this protoype, we use:
 
 <br>
+
 **4.1 Employer:** These users represent companies or organizations that they work in. They will be able to create/login to an account, browse candidates, and add job vacancies. They will also be able to view candidate profiles and select candidates for an interview. They can track all job applications. 
 
 **4.2 Student/Candidate:** These users are individuals seeking employment or career opportunities. They use the platform to find jobs, create resumes, apply for positions, network with industry professionals, receive career guidance and mentorship and gain access to resources for skill enhancement.
