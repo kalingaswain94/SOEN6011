@@ -16,20 +16,6 @@ Member details:
 | Khushali Parmar | 40224984 | [khushaliparmar](https://github.com/khushaliparmar)| Frontend Developer | 
 
 <br>
-=======
-**Group Reds**
-
-**Career Services Platform**
-
-| Team Members | Roll Numbers |
-| --- | --- |
-| Vaibhav Sharma | 40197697 |
-| Kalinga Swain | 40226333 |
-| Munj Bhavesh Nayak | 40195590 |
-| Maitry Gajiwala | 40234167 |
-| Naoreen Chowdhury | 40217016 |
-| Khushali Parmar | 40224984 |
-
 
 # CareerCampus
 ## 1. Project Description
@@ -61,7 +47,7 @@ Using this service, students can apply for various job applications catered to t
 
 ### 2.3. Job postings and Management
 Job Postings and Management will allow employers to post job vacancies on the platform, providing detailed information about job roles, responsibilities, qualifications, and desired skills. They can manage their job postings, edit or update them as needed, and set application deadlines. They can also see candidate profile and resume. This feature includes a notification service that will notify employeers when a candidate applies to the job postings.
-=======
+
 **Scrum Master: Vaibhav Sharma**
 
 **Product Owner: Kalinga Swain**
@@ -120,12 +106,5 @@ The following are the core user roles for this protoype, we use:
 
 Additional users include:<br>
 **4.4 Trainers:** These users are trainers or mentors who are hired by us to provide training programs for students. Training programs hold monetary value to our platform. Students can enroll and pay for specific programs. These programs include interview preparations, resume building, profile building skills, etc. 
-=======
-1. **Project scope**
-<h2>4. User Roles</h2>
-The following are the user roles for this protoype, we use 
-**4.1.1 Employer:**   Create an account/register, login, browse candidates, add job offers, select
-candidates that have already applied to an offer for an interview, track the post
-**4.1.2 Student/Candidate:** \
-**4.1.3 Admin:**
+
 
