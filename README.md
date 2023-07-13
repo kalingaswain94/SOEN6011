@@ -90,6 +90,3 @@ The following are the core user roles for this protoype, we use:
 **4.2 Student/Candidate:** These users are individuals seeking employment or career opportunities. They use the platform to find jobs, create resumes, apply for positions, network with industry professionals, receive career guidance and mentorship and gain access to resources for skill enhancement.
 
 **4.3 Admin:** An administrator is able to keep a watch over all the platform's user accounts. They have admin privileges and are responsible for managing and maintaining the platform. They  handle technical aspects, ensure data privacy and security, manage platform settings, and provide support to other users.
-
-Additional users include:<br>
-**4.4 Trainers:** These users are trainers or mentors who are hired by us to provide training programs for students. Training programs hold monetary value to our platform. Students can enroll and pay for specific programs. These programs include interview preparations, resume building, profile building skills, etc. 
