@@ -2,7 +2,8 @@
 
 SOFTWARE ENGINEERING PROCESSES: SECTION CC
 
-Group **"Team Red"**
+Group **"Team Red"** <br>
+Team Jira:  https://team6011.atlassian.net/jira/software/projects/S6D/boards/1/timeline
 
 Member details:
 | Team Members | Roll Numbers | Github usernames | Roles/Strengths |
