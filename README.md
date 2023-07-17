@@ -38,6 +38,8 @@ The following are the core features of our platform: CareerCampus
 
 ### 2.1. Providing secure login access to the dashboard
 This feature ensures that users (students, employers, admin) are able to get secure access to their respective dashboards by providing their usernames and passwords if the account is already created, else we create a new account. We will also implement a secure authentication mechanism to protect users' account information. This feature will check for correct details, i.e. if the user enters erroneous or invalid credentials, it will not allow the user to login unless they enter correct details. It will also show necessary error messages. 
+![image](https://github.com/vaibhav3003/SOEN6011/assets/104922788/8daf63d9-bf6d-46f7-b234-142d4110f863)
+
 
 
 ### 2.2. Tracking and Reminders for Job Applications
