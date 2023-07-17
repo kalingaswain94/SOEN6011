@@ -54,6 +54,10 @@ Job Postings and Management will allow employers to post job vacancies on the pl
 This is a scheduling feature that will be unique to a job posting. Students will be able to select, view and request for rescheduling interview slots whereas employers will be able to open new interview slots. Employers can also view, reschedule and cancel interview slots. As mentioned above, we will add integration of this feature with other scheduling and reminder apps such as Google Calender, etc. 
 <br>
 
+### 2.5. User Interaction
+The platform interacts with different users differently. As a Student, it will make it possible to apply for jobs and keep the profile updated. There should also be an option to update the resume for potential candidates.
+<br>
+
 ## 3. Project Technology and Approach
 
 
