@@ -36,26 +36,11 @@ The project scope includes end-to-end development of CareerCampus, including fro
 ## 2. Core Features
 The following are the core features of our platform: CareerCampus
 
-### 2.1. Providing secure login access to the dashboard
-This feature ensures that users (students, employers, admin) are able to get secure access to their respective dashboards by providing their usernames and passwords if the account is already created, else we create a new account. We will also implement a secure authentication mechanism to protect users' account information. This feature will check for correct details, i.e. if the user enters erroneous or invalid credentials, it will not allow the user to login unless they enter correct details. It will also show necessary error messages. 
-![image](https://github.com/vaibhav3003/SOEN6011/assets/104922788/8daf63d9-bf6d-46f7-b234-142d4110f863)
+* Employer – browse candidates, add job offers, select candidates that have already applied to an offer for an interview
+*	Student/Candidate – create profile, and build/upload a resume; browse and apply for job offers
+*	Tracking: Track the post by employers, track application by candidates 
+*	Admin – Managing all user profiles, postings and tracking
 
-
-
-### 2.2. Tracking and Reminders for Job Applications
-Using this service, students can apply for various job applications catered to their profile. The platform will maintain a central database of a student's job applications, interview times, and hiring phases. In this feature, we will develop a code for setting reminders for follow-ups and get updates on the status of student's application to keep everything organized. We will also add integration capabilities that will easily allow users to connect with their scheduling apps such as Google Calenders, Gmail for effective management.
-
-
-### 2.3. Job postings and Management
-Job Postings and Management will allow employers to post job vacancies on the platform, providing detailed information about job roles, responsibilities, qualifications, and desired skills. They can manage their job postings, edit or update them as needed, and set application deadlines. They can also see candidate profile and resume. This feature includes a notification service that will notify employeers when a candidate applies to the job postings.
-
-
-### 2.4. Interview Scheduling
-This is a scheduling feature that will be unique to a job posting. Students will be able to select, view and request for rescheduling interview slots whereas employers will be able to open new interview slots. Employers can also view, reschedule and cancel interview slots. As mentioned above, we will add integration of this feature with other scheduling and reminder apps such as Google Calender, etc. 
-<br>
-
-### 2.5. User Interaction
-The platform interacts with different users differently. As a Student, it will make it possible to apply for jobs and keep the profile updated. There should also be an option to update the resume for potential candidates.
 <br>
 
 ## 3. Project Technology and Approach
