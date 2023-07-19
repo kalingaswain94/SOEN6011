@@ -29,7 +29,7 @@ Acceptance Criteria:
 * Acknowledge any individuals, libraries, or resources that have contributed to the project.
 
 By fulfilling these acceptance criteria, the project's {{readme.md}} file will be enhanced with a comprehensive project description, clearly stated objective, and core features, enabling users and contributors to quickly grasp the project's purpose and functionality.",,Kalinga Swain,621ddc47b7e7c7007155fc55,,,,,,,,,,,,,,,,,,,"{repository={count=4, dataType=repository}, json={""cachedValue"":{""errors"":[],""summary"":{""repository"":{""overall"":{""count"":4,""lastUpdated"":""2023-07-12T22:42:41.000-0400"",""dataType"":""repository""},""byInstanceType"":{""GitHub"":{""count"":4,""name"":""GitHub""}}}}},""isStale"":true}}",,,,,,,,0|i00013:,,Medium,S6D Sprint 1,,1.0,,,,,,,10022,PROJECT SETUP,Done
-Streamlining GitHub and Jira Integration,S6D-2,10003,Story,Done,S6D,SOEN 6011 Delivery,software,Vaibhav Sharma,637c5c3efde064eda2ed99c7,,Medium,Done,Vaibhav Sharma,637c5c3efde064eda2ed99c7,Kalinga Swain,621ddc47b7e7c7007155fc55,Kalinga Swain,621ddc47b7e7c7007155fc55,11/Jul/23 12:57 PM,19/Jul/23 5:27 PM,19/Jul/23 5:27 PM,17/Jul/23 5:28 PM,,0,"As a project team,
+Streamlining GitHub and Jira Integration,S6D-2,10003,Story,Done,S6D,SOEN 6011 Delivery,software,Vaibhav Sharma,637c5c3efde064eda2ed99c7,,High,Done,Vaibhav Sharma,637c5c3efde064eda2ed99c7,Kalinga Swain,621ddc47b7e7c7007155fc55,Kalinga Swain,621ddc47b7e7c7007155fc55,11/Jul/23 12:57 PM,19/Jul/23 5:27 PM,19/Jul/23 5:27 PM,17/Jul/23 5:28 PM,,0,"As a project team,
 We aim to seamlessly integrate GitHub and Jira,
 Enabling efficient project initiation and code-issue linkage.
 
