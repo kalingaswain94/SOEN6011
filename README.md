@@ -73,6 +73,21 @@ feedback.
 - Documentation, such as requirements documents, design documents, and user guides, will be created and maintained using Github and Jira
 <br>
 
+## Instructions to install and run the web app
+- Install NodeJS from https://nodejs.org/en/download on your machine
+- Install MongoDB from https://www.mongodb.com/docs/manual/installation/ on your machine
+- Start mongodb server using: `sudo service mongod start`
+- Move inside backend directory: `cd backend`
+- Install dependencies in backend directory: `npm install`
+- Start express server: `npm start`
+- Backend server will start on port 4444
+- Now go inside frontend directory: `cd ..\frontend`
+- Install dependencies in frontend directory: `npm install`
+- Start web app's frontend server: `npm start`
+- Frontend server will start on port 3000
+- Now open http://localhost:3000/ and proceed creating jobs and applications by signing up in required categories
+<br>
+
 ## 4. User Roles
 The following are the core user roles for this protoype, we use:
 
