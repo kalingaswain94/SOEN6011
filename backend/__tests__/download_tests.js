@@ -1,4 +1,3 @@
-// Simulated Express Router
 const router = {
     get: (path, handler) => {
       const res = {
@@ -11,12 +10,12 @@ const router = {
     },
   };
   
-  // Import the router module
+
   const fileRoutes = {
-    get: router.get, // Mocked get method
+    get: router.get, 
   };
   
-  // Define test cases
+
   describe("GET /resume/:file", () => {
     it("should send the file", () => {
       fileRoutes.get("/resume/:file", (req, res) => {
