@@ -9,7 +9,7 @@ Member details:
 | Team Members | Roll Numbers | Github usernames | Roles/Strengths |
 | --- | --- | --- | --- |
 | Vaibhav Sharma | 40197697 | [vaibhav3003](https://github.com/vaibhav3003) | Scrum Master |
-| Kalinga Keshari Swain | 40226333 | [Makermav](https://github.com/Markermav)| Project Manager |
+| Kalinga Keshari Swain | 40226333 | [kalingaswain94](https://github.com/kalingaswain94) [Makermav](https://github.com/Markermav)| Project Manager |
 | Munj Bhavesh Nayak | 40195590 | [MunjNayak](https://github.com/MunjNayak) | Backend Developer and Tester | 
 | Maitry Gajiwala | 40234167 | [MaitryG](https://github.com/MaitryG) | Backend Developer and Tester |
 | Naoreen Chowdhury | 40217016 | [naoreen](https://github.com/naoreen)| Frontend Developer | 
